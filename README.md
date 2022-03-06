@@ -3,7 +3,7 @@ Utility programs for SNU Plant System Evolution Lab (HyunLab)
 
 ### Utils list
 * `mousemacro` is macro tool for mouse control to automate simple tasks which takes time. 
-* (DEVing)`sshsync` is syncronization tool for windows and NAS for our lab. It uses ssh protocol which contains scp(safe copy) to snyc with NAS
+* (Developing)`sshsync` is syncronization tool for windows and NAS for our lab. It uses ssh protocol which contains scp(safe copy) to snyc with NAS
   * THIS SNYC TAKES TIME
   * Only works at Seoul National University Network (e.g. wifi on lab, LAN on lab desktop)
   * Contains two programs, DESKTOP to NAS(`D2N`), and NAS to DESKTOP(`N2D`). Please take care with the direction. 
